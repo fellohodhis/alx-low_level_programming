@@ -8,7 +8,7 @@
  *
  * Return: address of dest
  */
-char *_strncat(char *dest, char *src, int n);
+char *_strncat(char *dest, char *src, int n)
 {
 	int x, y;
 
