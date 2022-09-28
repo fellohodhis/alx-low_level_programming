@@ -2,7 +2,7 @@
 
 /**
  * factoral - returns the factoral of a given number
- * @n: the number
+ * @n: integer to take factoral of
  *
  * Return: factoral of n, or -1 if n < 0
  */
